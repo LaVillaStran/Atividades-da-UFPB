@@ -4,3 +4,5 @@
 ## Aqui há exercícios que vão de listas até aplicações com strings, então, espero que apreciem cada solução e caso queiram dar alguma sugestão, podem entrar em contato comigo pelo meu e-mail que estará disponível em meu perfil ou até mesmo no meu LinkedIn.
 
 ## Aproveitem!
+
+## OBS:. Houve algumas questões que eu esqueci de colocar o enunciado... mas felizmente em algumas eu consegui encontrar, enfim, perdão pela confusão e boa leitura!!!
